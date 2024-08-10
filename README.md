@@ -14,7 +14,7 @@ You can also find a `.exe` file in the repository
 
 # Website
 
-Visit the Erased [website](https://topagrume.github.io/erased/jeu.html) to find the download link and access all related documentation, including the production specifications and the project report.
+Visit the Erased [website](https://topagrume.github.io/erased/jeu.html) to find the download link and access all related documentation, including the production specifications and the project reports.
 
 ![](./assets/website.png)
 
