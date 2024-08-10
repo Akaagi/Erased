@@ -20,7 +20,7 @@ Our Multiplayer Mode pits 2 to 4 players against each other in a competitive mat
 # Install
 
 Follow the guide `Dossier_exploitation_Erased.pdf`\
-You can also find a `.exe` file in the repository
+You can also find a `.exe` file / `.zip` archive in the repository
 
 # Website
 
